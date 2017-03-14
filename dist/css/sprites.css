@@ -1,0 +1,71 @@
+.icon_1_1, .icon_1_2, .icon_1_4, .icon_1_3, .icon_2_1, .icon_2_2, .icon_2_3, .icon_2_4, .facebook, .vk, .scroll{
+	background: url(../img/sprites.png) no-repeat;
+	display: inline-block;
+}
+
+.icon_1_1{
+	background-position: 0 0;
+	width: 72px;
+	height: 77px;
+}
+
+.icon_1_2{
+	background-position: -100px 0;
+	width: 65px;
+	height: 76px;
+}
+
+.icon_1_4{
+	background-position: -300px 0;
+	width: 60px;
+	height: 72px;
+}
+
+.icon_1_3{
+	background-position: -200px 0;
+	width: 78px;
+	height: 80px;
+}
+
+.icon_2_1{
+	background-position: -200px -150px ;
+	width: 83px;
+	height: 77px;
+}
+
+.icon_2_2{
+	background-position: -100px -150px ;
+	width: 68px;
+	height: 77px;
+}
+
+.icon_2_3{
+	background-position: 0 -150px ;
+	width: 88px;
+	height: 78px;
+}
+
+.icon_2_4{
+	background-position: -300px -150px ;
+	width: 56px;
+	height: 77px;
+}
+
+.facebook{
+	background-position: 0 -300px ;
+	width: 18px;
+	height: 18px;
+}
+
+.vk{
+	background-position: -50px -300px ;
+	width: 27px;
+	height: 16px;
+}
+
+.scroll{
+	background-position: -100px -300px ;
+	width: 32px;
+	height: 32px;
+}
+

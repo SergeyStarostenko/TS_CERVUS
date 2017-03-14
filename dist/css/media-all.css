@@ -1,0 +1,704 @@
+@media only screen and (min-width: 770px) and (orientation: portrait) {
+  header, .layer-header {
+    height: 600px;
+  }
+  .layer-header {
+    height: inherit;
+  }
+  .layer-header .nav-page {
+    margin-bottom: 40px;
+  }
+}
+
+@media only screen and (min-width: 1281px) {
+  header .data-text {
+    width: 100%;
+  }
+  header nav .fa {
+    display: none;
+  }
+  .layer-reviews ul {
+    margin-bottom: 40px;
+  }
+  .layer-reviews .slider-button {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 1360px) {
+  .layer-header {
+    width: 1370px;
+    left: 50%;
+    margin-left: -685px;
+  }
+}
+
+@media only screen and (max-width: 1280px) {
+  header .data-text {
+    width: 100%;
+  }
+  /*SECTION statistics*/
+  .block-infogramme li h3 {
+    font-size: 90%;
+  }
+  .advantages .block-icon li {
+    width: 40%;
+    padding: 10px;
+  }
+  .advantages .block-icon li h2 {
+    font-size: 1.1em;
+  }
+  .wrapper-reviews {
+    position: relative;
+    width: 945px;
+    height: 233px;
+    margin: auto;
+    margin-bottom: 30px;
+    overflow: hidden;
+  }
+  .wrapper-reviews ul {
+    display: block;
+    position: absolute;
+    float: left;
+    width: 3000px;
+    left: 0;
+    margin: auto;
+  }
+  .wrapper-reviews ul li {
+    display: inline-block;
+    margin: 0 20px;
+  }
+  .wrapper-see-works {
+    position: relative;
+    width: 860px;
+    height: 365px;
+    margin: auto;
+    margin-bottom: 30px;
+    overflow: hidden;
+  }
+  .wrapper-see-works ul {
+    display: block;
+    position: absolute;
+    float: left;
+    width: 3000px;
+    left: 0;
+    margin: auto;
+  }
+  .wrapper-see-works ul li {
+    display: inline-block;
+    margin: 0 20px;
+  }
+  .process .block-icon li {
+    width: 40%;
+    padding: 10px;
+  }
+  .process .block-icon li h2 {
+    font-size: 1.1em;
+  }
+  .process .block-check {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+  }
+  .process .block-check li {
+    width: 50%;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .process .block-check li a {
+    margin: auto;
+  }
+  /*  */
+  .construction-price .price-house .data .text {
+    font-size: 90%;
+  }
+  .wrapper-top-object {
+    position: relative;
+    width: 630px;
+    height: 270px;
+    margin: auto;
+    margin-bottom: 30px;
+    overflow: hidden;
+  }
+  .wrapper-top-object ul {
+    display: block;
+    position: absolute;
+    float: left;
+    width: 3000px;
+    left: 0;
+    margin: auto;
+  }
+  .wrapper-top-object ul li {
+    display: inline-block;
+    margin: 0 20px;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+  /*HEADER*/
+  header {
+    height: 700px;
+  }
+  header .layer-header {
+    height: 100vh;
+  }
+  header .layer-header .nav-page {
+    margin-bottom: 2px;
+  }
+  .data-text {
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  /*SECTION statistics*/
+  .block-infogramme {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+  }
+  .block-infogramme li {
+    width: 50%;
+    margin-bottom: 20px;
+  }
+  .advantages .block-icon {
+    margin: 20px 0;
+  }
+  .advantages .block-icon li {
+    border: 0;
+    width: 500px;
+    padding: 10px;
+    height: auto;
+  }
+  .advantages .block-icon li h2 {
+    font-size: 1.4em;
+  }
+  .wrapper-reviews {
+    position: relative;
+    width: 630px;
+    height: 233px;
+    margin: auto;
+    margin-bottom: 30px;
+    overflow: hidden;
+  }
+  .wrapper-reviews ul {
+    display: block;
+    position: absolute;
+    float: left;
+    width: 3000px;
+    left: 0;
+    margin: auto;
+  }
+  .wrapper-reviews ul li {
+    display: inline-block;
+    margin: 0 20px;
+  }
+  .wrapper-see-works {
+    position: relative;
+    width: 430px;
+    height: 365px;
+    margin: auto;
+    margin-bottom: 30px;
+    overflow: hidden;
+  }
+  .wrapper-see-works ul {
+    display: block;
+    position: absolute;
+    float: left;
+    width: 3000px;
+    left: 0;
+    margin: auto;
+  }
+  .wrapper-see-works ul li {
+    display: inline-block;
+    margin: 0 20px;
+  }
+  .wrapper-top-object {
+    position: relative;
+    width: 630px;
+    height: 330px;
+    margin: auto;
+    margin-bottom: 0;
+    overflow: hidden;
+  }
+  .wrapper-top-object ul {
+    display: block;
+    position: absolute;
+    float: left;
+    width: 3000px;
+    left: 0;
+    margin: auto;
+  }
+  .wrapper-top-object ul li {
+    display: inline-block;
+    margin: 0 20px;
+  }
+  .process .block-icon {
+    margin: 20px 0;
+  }
+  .process .block-icon li {
+    border: 0;
+    width: 500px;
+    padding: 10px;
+    height: auto;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+  }
+  /*  */
+  .construction-price .price-house:nth-child(odd) .data li .price {
+    margin: 0 10px;
+  }
+  .construction-price .price-house {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+    -webkit-flex-direction: column-reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+  }
+  .construction-price .price-house .data {
+    margin-top: 20px;
+    width: 500px;
+  }
+  .construction-price .price-house .data .price {
+    margin: 0 10px;
+  }
+  .construction-price .price-house .img-house {
+    margin: 0;
+  }
+}
+
+@media only screen and (max-width: 770px) {
+  nav {
+    margin-bottom: 20px;
+  }
+  .data-text {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .questions {
+    padding: 15px;
+    font-size: 86%;
+  }
+  .title-section {
+    font-size: 150%;
+    padding: 0 5px;
+  }
+  /*SECTION statistics*/
+  .statistics .infogramme .block-infogramme .timer {
+    font-size: 3.8em;
+  }
+  .statistics .infogramme .block-infogramme li h3 {
+    font-size: 1em;
+  }
+  .statistics .advantages .block-icon h2 {
+    font-size: 120%;
+  }
+  .process .block-icon h2 {
+    font-size: 120%;
+  }
+  .process .block-check {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+  }
+  .process .block-check li {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .process .block-check li a {
+    margin: auto;
+  }
+  .layer-reviews .wrapper-reviews {
+    position: relative;
+    width: 295px;
+    height: 233px;
+    margin: auto;
+    margin-bottom: 30px;
+    overflow: hidden;
+  }
+  .layer-reviews .wrapper-reviews ul {
+    display: block;
+    position: absolute;
+    float: left;
+    width: 3000px;
+    left: 0;
+    margin: auto;
+  }
+  .layer-reviews .wrapper-reviews ul li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  .tree-process {
+    text-align: center;
+  }
+  .tree-process ul {
+    width: auto;
+    display: inline-block;
+  }
+  .tree-process ul:after {
+    display: none;
+  }
+  .tree-process ul li:first-child span {
+    margin-top: 0;
+  }
+  .tree-process ul li:first-child:before {
+    margin-top: 45px;
+  }
+  .tree-process ul li:first-child:after {
+    top: 50px;
+  }
+  .tree-process ul li:nth-of-type(6) {
+    padding-bottom: 20px;
+  }
+  .tree-process ul li:last-child {
+    padding: 0;
+  }
+  .tree-process ul li:last-child span {
+    width: 325px;
+  }
+  .tree-process ul li:last-child span:before {
+    margin-left: 0px;
+  }
+  .tree-process ul li:last-child:after {
+    top: 40px;
+  }
+  .tree-process ul li:before {
+    margin-top: 30px;
+    left: 0;
+    margin-left: 15px;
+  }
+  .tree-process ul li:after {
+    left: 0;
+    margin-left: 9px;
+  }
+  .tree-process ul li span {
+    margin-left: 60px;
+  }
+  .tree-process ul li:nth-child(2n+1) {
+    text-align: right;
+  }
+  .tree-process ul li:nth-child(2n+1) span:before {
+    content: "\f0d9";
+    display: block;
+    position: absolute;
+    font-family: FontAwesome;
+    color: #92d819;
+    font-size: 3em;
+    left: -17px;
+    top: 50%;
+    margin-top: -11px;
+    text-shadow: -1px 0px 2px rgba(0, 0, 0, 0.2);
+    right: 100%;
+  }
+  .construction-price .price-house {
+    width: auto;
+  }
+  .construction-price .price-house .data li {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .construction-price .price-house .data li .text {
+    margin-top: 10px;
+    width: 450px;
+    text-align: center;
+  }
+  .construction-price .price-house .img-house {
+    width: 450px;
+    min-width: 450px;
+    max-width: 450px;
+    height: 350px;
+  }
+  .construction-price .price-house .img-house:before {
+    background-size: cover;
+    width: 100%;
+    height: 280px;
+    left: 0;
+    margin: 0;
+  }
+  .wrapper-top-object {
+    position: relative;
+    width: 295px;
+    height: 300px;
+    margin: auto;
+    margin-bottom: 0;
+    overflow: hidden;
+  }
+  .wrapper-top-object ul {
+    display: block;
+    position: absolute;
+    float: left;
+    width: 3000px;
+    left: 0;
+    margin: auto;
+  }
+  .wrapper-top-object ul li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  footer .wrapper-footer .vcard {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  /* HEADER */
+  header {
+    height: 500px;
+  }
+  header .layer-header {
+    height: 400px;
+  }
+  .logo {
+    margin: 10px 0;
+    font-size: 2em;
+  }
+  nav {
+    margin: 0;
+  }
+  nav ul {
+    display: none;
+    width: 250px;
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    margin-left: -125px;
+  }
+  nav ul li {
+    display: block;
+    margin: 0;
+  }
+  nav ul li a {
+    width: inherit;
+    display: inherit;
+    margin-top: 2px;
+    padding: 5px;
+    background: #484848;
+  }
+  nav ul li a:hover:before {
+    width: 250px;
+    left: 0;
+  }
+  nav .toogle {
+    display: inline-block;
+  }
+  .data-text {
+    margin-top: 10px;
+  }
+  .questions {
+    font-size: 55%;
+    line-height: 1em;
+  }
+  .vcard {
+    font-size: 90%;
+  }
+  .title-section {
+    font-size: 120%;
+    padding: 0 5px;
+  }
+  /*SECTION statistics*/
+  .statistics .infogramme .block-infogramme li {
+    width: 100%;
+  }
+  .statistics .infogramme .block-infogramme .timer {
+    font-size: 3.5em;
+  }
+  .statistics .advantages .block-icon li {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-align-content: center;
+        -ms-flex-line-pack: center;
+            align-content: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    height: auto;
+    padding: 10px 0;
+  }
+  .statistics .advantages .block-icon .icon {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .statistics .advantages .block-icon h2 {
+    width: 100%;
+    padding: 10px 0;
+  }
+  .process .block-icon li {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-align-content: center;
+        -ms-flex-line-pack: center;
+            align-content: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    height: auto;
+    padding: 10px 0;
+  }
+  .process .block-icon .icon {
+    margin: 0;
+  }
+  .process .block-icon h2 {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 90%;
+  }
+  .tree-process {
+    text-align: center;
+  }
+  .tree-process ul {
+    font-size: 0.8em;
+  }
+  .tree-process ul li:first-child:after {
+    top: 30px;
+  }
+  .tree-process ul li:first-child:before {
+    margin-top: 25px;
+  }
+  .tree-process ul li:nth-child(6):after {
+    top: 30px;
+  }
+  .tree-process ul li:nth-child(even) span,
+  .tree-process ul li:nth-child(odd) span {
+    padding: 5px;
+    width: 200px;
+  }
+  .tree-process ul li:nth-child(6):after {
+    top: 30px;
+  }
+  .tree-process ul li:nth-child(6):before {
+    margin-top: 10px;
+  }
+  .tree-process ul li:last-child:after {
+    top: 22px;
+  }
+  .tree-process ul li:last-child {
+    text-align: center;
+  }
+  .tree-process ul li:last-child span:before {
+    margin-top: -9px;
+  }
+  .tree-process ul li span {
+    -webkit-box-shadow: 2px 0px 4px rgba(0, 0, 0, 0.4);
+            box-shadow: 2px 0px 4px rgba(0, 0, 0, 0.4);
+  }
+  .tree-process ul li span :before {
+    left: -15px;
+  }
+  .wrapper-see-works {
+    position: relative;
+    width: 300px;
+    height: 365px;
+    margin: auto;
+    margin-bottom: 30px;
+    overflow: hidden;
+  }
+  .wrapper-see-works ul {
+    display: block;
+    position: absolute;
+    float: left;
+    width: 3000px;
+    left: 0;
+    margin: auto;
+  }
+  .wrapper-see-works ul li {
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 90%;
+  }
+  .wrapper-see-works ul li .img-work {
+    width: 100%;
+  }
+  .wrapper-see-works ul li .btn-price {
+    font-size: 85%;
+    width: 100%;
+    padding: 0;
+  }
+  .construction-price .price-house {
+    width: auto;
+  }
+  .construction-price .price-house .data li {
+    padding: 5px 0;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  .construction-price .price-house .data li .text {
+    margin-top: 5px;
+    width: 250px;
+    text-align: center;
+  }
+  .construction-price .price-house .img-house {
+    min-width: 250px;
+    max-width: 250px;
+    width: 250px;
+    height: 250px;
+  }
+  .construction-price .price-house .img-house:before {
+    background-size: cover;
+    width: 100%;
+    height: 180px;
+    left: 0;
+    margin: 0;
+  }
+  footer .wrapper-footer .logo-footer {
+    font-size: 1em;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  /*HEADER*/
+  .img-house {
+    min-width: 250px;
+    max-width: 250px;
+    width: 250px;
+    height: 250px;
+  }
+}

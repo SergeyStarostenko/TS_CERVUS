@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Fundamental_Brigade';
+    src: local('Fundamental  Brigade Scvhlank'), local('FundamentalBrigadeScvhlank'), url('fundamentalbrigadescvhlank.woff2') format('woff2'), url('fundamentalbrigadescvhlank.woff') format('woff'), url('fundamentalbrigadescvhlank.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fundamental_Brigade';
+    src: local('Fundamental  Brigade'), local('FundamentalBrigade'), url('fundamentalbrigade.woff2') format('woff2'), url('fundamentalbrigade.woff') format('woff'), url('fundamentalbrigade.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fundamental_Brigade';
+    src: local('Fundamental  Brigade Schwer'), local('FundamentalBrigadeSchwer'), url('fundamentalbrigadeschwer.woff2') format('woff2'), url('fundamentalbrigadeschwer.woff') format('woff'), url('fundamentalbrigadeschwer.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
